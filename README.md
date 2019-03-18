@@ -1,6 +1,6 @@
 # Junior Full Stack Developer
 
-At Openforce we work in terms of user stories with varying degrees of requirements along with lots of feedback cycles.  We feel the best way to measure how someone would work with our team is to simulate self-organized work.  The following steps consist of the technical interview.  Any language/framework for submissions is acceptable.  React (front end) and Elixir (back end) preferred.
+At Openforce we work in terms of user stories with varying degrees of requirements along with lots of feedback cycles.  We feel the best way to measure how someone would work with our team is to simulate self-organized work.  The following steps make up the technical interview.  Any language/framework for submissions is acceptable.  React (front end) and Elixir (back end) preferred.
 
 1. Create a GitHub repository for this project.  
 2. Complete the stories below.
