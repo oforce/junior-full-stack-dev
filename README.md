@@ -4,7 +4,7 @@ At Openforce we work in terms of user stories with varying degrees of requiremen
 
 1. Create a GitHub repository for this project.  
 2. Complete the stories below.
-3. Email development@oforce.com a link to your application AND GitHub repository with subject “Junior Full Stack Developer Candidate - <your first name> <your last name>"
+3. Email development@oforce.com a link to your application AND GitHub repository with subject “Junior Full Stack Developer Candidate - **Your Name**"
 
 Using the “Ron Swanson Quotes API” - https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
 
