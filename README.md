@@ -6,9 +6,9 @@ At Openforce we work in terms of user stories with varying degrees of requiremen
 2. Complete the stories below.
 3. Email development@oforce.com a link to your application AND GitHub repository with subject “Junior Developer Candidate - <your first name> <your last name>"
 
-## Front End Stories
-
 Using the “Ron Swanson Quotes API” - https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api
+
+## Front End Stories
 
 ### Show Me Swanson Swag
 As an internet user I should be able to get Ron Swanson quotes on demand.
